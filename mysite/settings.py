@@ -25,7 +25,7 @@ SECRET_KEY = 'qh)v5!2fmoh7+z@$$pyga_2vj6daoeue5c(3v-7i+xr^+ph%4k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'laysquad.pythonanywhere.com']
 
 
 # Application definition
