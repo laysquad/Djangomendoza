@@ -14,3 +14,12 @@ https://github.com/laysquad/Djangomendoza.git
 token
 
 a5bd6430a250545ad443c031ee0531479c2bc94e
+
+
+
+-------------------------
+pythonanywhere
+-------------------------
+cambiar settings.py en git
+git checkout HEAD mysite/settings.py
+--------------------------
