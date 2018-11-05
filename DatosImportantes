@@ -1,0 +1,8 @@
+usuario: Laysquad
+Contra: la del reno XD
+
+
+
+git init
+git config --global user.name = "laysquad"
+git config --global user.email = "finaljuan@hotmail.com"
